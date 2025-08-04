@@ -19,5 +19,3 @@ Potentiomiters can optionally be plugged into 3 wire ports "A" and "B"
 ...Sorry about the mess and the hell you'll go through in trying to look at main.cpp
 
 credits to suhjae for the loading image
-
-https://suhjae.github.io/vex-image/
