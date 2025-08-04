@@ -5,7 +5,18 @@ inertal sensor should be pluged into port 17, and should be mounted to motor plu
 Potentiomiters can optionally be plugged into 3 wire ports "A" and "B"
 ----------------------------------------------------------------------------
 
-Sorry about the mess and the hell you'll go through in trying to look at main.cpp
+
+
+
+
+
+
+
+
+
+
+
+...Sorry about the mess and the hell you'll go through in trying to look at main.cpp
 
 credits to suhjae for the loading image
 
